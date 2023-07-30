@@ -23,7 +23,7 @@ By the way, by "shading color", I mean the layer above the base color that is fo
 
 To the third space, enter the hex code of the color you want to change the shading color of. You can write it with or without the hashtag.
 
-Before you click "Start Changing Colors", **make sure the base color layer is selected, and also make sure that the shading color layer is named to "Shading". It's case-sensitive. And make sure the shading layer is drawn on and alpha-locked, or else the results won't be good**. Done? Now press the "Start Changing Colors" button and easily change the shading color of colors with hue value that falls into the range you provided!
+Before you click "Start Changing Colors", **make sure the base color layer is selected, and also make sure that the shading color layer is named to "Shading". It's case-sensitive. And make sure the shading layer is drawn on and alpha-locked, or else the results won't be good. And make sure that the base color and shading layers are not grouped as well**. Done? Now press the "Start Changing Colors" button and easily change the shading color of colors with hue value that falls into the range you provided!
 
 Here's a video to see the plugin in action:
 https://drive.google.com/file/d/1YdPSDWWLZIXaFifaC3nqjsUOphHs-SkQ/view?usp=sharing
