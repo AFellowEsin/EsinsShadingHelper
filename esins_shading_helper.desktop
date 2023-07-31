@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=esins_shading_helper
+X-Python-2-Compatible=false
+X-Krita-Manual=myPluginManual.html
+Name=Esin's Shading Helper
+Comment=A simple plugin made to help with colors while shading and lighting
